@@ -1,0 +1,13 @@
+
+{
+  "name": "cristian-store-server",
+  "version": "1.0.0",
+  "description": "Servidor de verificación de jugadores para CRISTIAN STORE",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
